@@ -1,10 +1,8 @@
 {
   "title": "Crazy",
   "Website Link": "https://random.com",
-  "Tags": [
-    "Food",
-    "Random",
-    "Fuck"
+  "tags": [
+    "OK"
   ],
   "Screenshot": "/img/netflix-demo-2.png",
   "body": "OK World",
